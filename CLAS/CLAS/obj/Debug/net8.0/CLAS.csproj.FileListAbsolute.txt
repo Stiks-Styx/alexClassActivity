@@ -1,0 +1,14 @@
+C:\Users\Styx\source\repos\CLAS\CLAS\bin\Debug\net8.0\CLAS.exe
+C:\Users\Styx\source\repos\CLAS\CLAS\bin\Debug\net8.0\CLAS.deps.json
+C:\Users\Styx\source\repos\CLAS\CLAS\bin\Debug\net8.0\CLAS.runtimeconfig.json
+C:\Users\Styx\source\repos\CLAS\CLAS\bin\Debug\net8.0\CLAS.dll
+C:\Users\Styx\source\repos\CLAS\CLAS\bin\Debug\net8.0\CLAS.pdb
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\CLAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\CLAS.AssemblyInfoInputs.cache
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\CLAS.AssemblyInfo.cs
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\CLAS.csproj.CoreCompileInputs.cache
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\CLAS.dll
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\refint\CLAS.dll
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\CLAS.pdb
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\CLAS.genruntimeconfig.cache
+C:\Users\Styx\source\repos\CLAS\CLAS\obj\Debug\net8.0\ref\CLAS.dll
