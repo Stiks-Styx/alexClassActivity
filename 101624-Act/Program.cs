@@ -78,7 +78,7 @@
 
             /*********************************************************************/
 
-            Console.WriteLine("\nSelect Your Side Drinks: ");
+            Console.WriteLine("\nSelect Your Drinks: ");
             Console.WriteLine($"1 : {drinks1}\n2 : {drinks2}\n3 : {drinks3}");
             Console.Write("Enter Your Choice: ");
             options2 = Convert.ToInt32(Console.ReadLine());
@@ -99,12 +99,13 @@
                     return;
             }
 
-            Console.WriteLine($"\nThe Price of Johnnybee Mix and Match meal is: ₱{mixMatchPrice}");
+            Console.WriteLine($"\nThe Price of Johnnybee Mix and Match meal is: Php {mixMatchPrice.ToString("F2")}");
             Console.Write("How many sets of the Johnnybee Mix and Match meal do you want to order: ");
 
             amountOrder = Convert.ToInt32(Console.ReadLine());
             if (amountOrder <= 0)
             {
+                Console.WriteLine("The amount of order should be atleast 1:");
                 return;
             }
 
@@ -122,7 +123,7 @@
             }
 
             Console.WriteLine($"\nYou ordered {amountOrder} sets of {selectedMeal}, {selectedSide}, and {selectedDrink}");
-            Console.WriteLine($"The total price of your order is {totalPrice}");
+            Console.WriteLine($"The total price of your order is {totalPrice.ToString("F2")}");
             Console.WriteLine("\nThank you for dining with us at Johnnybee! \nWe truly appreciate your patronage and hope you had a wonderful meal.");
 
         }

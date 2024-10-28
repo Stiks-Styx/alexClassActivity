@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BSCS_1A_Alcazar/1.0.0": {
+        "runtime": {
+          "BSCS_1A_Alcazar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSCS_1A_Alcazar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

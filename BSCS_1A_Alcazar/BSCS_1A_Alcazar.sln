@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSCS_1A_Alcazar", "BSCS_1A_Alcazar.csproj", "{D912C5E2-7FFE-4F0C-84BA-D20B0D2A86F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D912C5E2-7FFE-4F0C-84BA-D20B0D2A86F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D912C5E2-7FFE-4F0C-84BA-D20B0D2A86F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D912C5E2-7FFE-4F0C-84BA-D20B0D2A86F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D912C5E2-7FFE-4F0C-84BA-D20B0D2A86F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C4FB51-25D6-43B8-BD71-DD30E5F5AD32}
+	EndGlobalSection
+EndGlobal

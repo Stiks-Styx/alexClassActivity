@@ -1,0 +1,15 @@
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\bin\Debug\net8.0\BSCS_1A_Alcazar.exe
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\bin\Debug\net8.0\BSCS_1A_Alcazar.deps.json
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\bin\Debug\net8.0\BSCS_1A_Alcazar.runtimeconfig.json
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\bin\Debug\net8.0\BSCS_1A_Alcazar.dll
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\bin\Debug\net8.0\BSCS_1A_Alcazar.pdb
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.AssemblyInfoInputs.cache
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.AssemblyInfo.cs
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.csproj.CoreCompileInputs.cache
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.sourcelink.json
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.dll
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\refint\BSCS_1A_Alcazar.dll
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.pdb
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\BSCS_1A_Alcazar.genruntimeconfig.cache
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\BSCS_1A_Alcazar\obj\Debug\net8.0\ref\BSCS_1A_Alcazar.dll
