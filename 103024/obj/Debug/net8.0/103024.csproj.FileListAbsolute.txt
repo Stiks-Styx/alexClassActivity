@@ -1,0 +1,15 @@
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\bin\Debug\net8.0\103024.exe
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\bin\Debug\net8.0\103024.deps.json
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\bin\Debug\net8.0\103024.runtimeconfig.json
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\bin\Debug\net8.0\103024.dll
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\bin\Debug\net8.0\103024.pdb
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.AssemblyInfoInputs.cache
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.AssemblyInfo.cs
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.csproj.CoreCompileInputs.cache
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.sourcelink.json
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.dll
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\refint\103024.dll
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.pdb
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\103024.genruntimeconfig.cache
+C:\Users\Styx\Desktop\BSCS-1A\alexClassActivity\103024\obj\Debug\net8.0\ref\103024.dll
