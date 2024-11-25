@@ -13,7 +13,7 @@ internal class Program
                 Write(" ");
             }
 
-            for (int j = 1; j <= 2 * (n-i) + 1; j++)
+            for (int j = 1; j <= 2 * (n - i) + 1; j++)
             {
                 Write("*");
             }
@@ -21,4 +21,3 @@ internal class Program
         }
     }
 }
-
